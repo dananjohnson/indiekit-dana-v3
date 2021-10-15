@@ -1,0 +1,18 @@
+{
+  "name": "indiekit-dana-v3",
+  "version": "0.0.1",
+  "homepage": "https://github.com/dananjohnson/indiekit-dana-v3",
+  "main": "index.js",
+  "engines": {
+    "node": "14.x"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "DEBUG=indiekit:* node indiekit.config.js"
+  },
+  "dependencies": {
+    "@indiekit/indiekit": "^0.1.4",
+    "@indiekit/store-github": "^0.1.4",
+    "dotenv": "^10.0.0"
+  }
+}
