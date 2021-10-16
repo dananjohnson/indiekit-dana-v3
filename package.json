@@ -13,6 +13,7 @@
   "dependencies": {
     "@indiekit/indiekit": "^0.1.4",
     "@indiekit/store-github": "^0.1.4",
-    "dotenv": "^10.0.0"
+    "dotenv": "^10.0.0",
+    "yaml": "^1.10.2"
   }
 }
